@@ -1,0 +1,92 @@
+{
+  "R001": {
+    "Name": "Elon Musk",
+    "Age": 53,
+    "Net Worth": "$420 Billion",
+    "Famous Company": "Tesla",
+    "Wives": 3,
+    "Childrens": 12,
+    "Favt Pet": "Floki"
+  },
+  "R002": {
+    "Name": "Jeff Bezos",
+    "Age": 61,
+    "Net Worth": "$230 Billion",
+    "Famous Company": "Amazon",
+    "Wives": 3,
+    "Childrens": 4,
+    "Favt Pet": "Bluebell"
+  },
+  "R003": {
+    "Name": "Mark Zuckerberg",
+    "Age": 40,
+    "Net Worth": "$216 Billion",
+    "Famous Company": "Meta",
+    "Wives": 1,
+    "Childrens": 3,
+    "Favt Pet": "Beast"
+  },
+  "R004": {
+    "Name": "Larry Ellison",
+    "Age": 80,
+    "Net Worth": "$210 Billion",
+    "Famous Company": "Oracle",
+    "Wives": 5,
+    "Childrens": 3,
+    "Favt Pet": "Kona"
+  },
+  "R005": {
+    "Name": "Bill Gates",
+    "Age": 69,
+    "Net Worth": "$157 Billion",
+    "Famous Company": "Microsoft",
+    "Wives": 1,
+    "Childrens": 3,
+    "Favt Pet": "Nemo"
+  },
+  "R006": {
+    "Name": "Warren Buffett",
+    "Age": 94,
+    "Net Worth": "$148 Billion",
+    "Famous Company": "Berkshire Hathaway",
+    "Wives": 2,
+    "Childrens": 3,
+    "Favt Pet": "Snowball"
+  },
+  "R007": {
+    "Name": "Larry Page",
+    "Age": 51,
+    "Net Worth": "$143 Billion",
+    "Famous Company": "Google",
+    "Wives": 1,
+    "Childrens": 2,
+    "Favt Pet": "Max"
+  },
+  "R008": {
+    "Name": "Sergey Brin",
+    "Age": 51,
+    "Net Worth": "$138 Billion",
+    "Famous Company": "Google",
+    "Wives": 2,
+    "Childrens": 3,
+    "Favt Pet": "Charlie"
+  },
+  "R009": {
+    "Name": "Steve Ballmer",
+    "Age": 68,
+    "Net Worth": "$121 Billion",
+    "Famous Company": "Microsoft",
+    "Wives": 1,
+    "Childrens": 3,
+    "Favt Pet": "Rocky"
+  },
+  "R010": {
+    "Name": "Jensen Huang",
+    "Age": 61,
+    "Net Worth": "$119 Billion",
+    "Famous Company": "NVIDIA",
+    "Wives": 1,
+    "Childrens": 2,
+    "Favt Pet": "Luna"
+  }
+}
