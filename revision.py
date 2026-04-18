@@ -18,9 +18,7 @@ def view_all():
     data =load_data()
     return data 
 
-from fastapi import FastAPI, HTTPException
 
-app = FastAPI()
 
 @app.get("/view/{richest_person_code}")
 def view_specific(richest_person_code: str = Path(..., description=" here you enter the code of the client" ,Example = "R001")):
@@ -93,6 +91,7 @@ def sort_richestpeople(sortby : str = Query(..., "sort on the bases of networth"
 
 
 
+    
          
 
 
